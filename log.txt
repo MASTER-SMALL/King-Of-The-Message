@@ -1,0 +1,1 @@
+This is every entry logged. The program reads it in the reverse order (last line to top) and seperates the lines with a <br> tag and a \n for newline.
